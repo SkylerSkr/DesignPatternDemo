@@ -1,0 +1,6 @@
+G:\设计模式\工厂方法模式\工厂方法模式\bin\Debug\工厂方法模式.exe.config
+G:\设计模式\工厂方法模式\工厂方法模式\bin\Debug\工厂方法模式.exe
+G:\设计模式\工厂方法模式\工厂方法模式\bin\Debug\工厂方法模式.pdb
+G:\设计模式\工厂方法模式\工厂方法模式\obj\Debug\工厂方法模式.csprojResolveAssemblyReference.cache
+G:\设计模式\工厂方法模式\工厂方法模式\obj\Debug\工厂方法模式.exe
+G:\设计模式\工厂方法模式\工厂方法模式\obj\Debug\工厂方法模式.pdb

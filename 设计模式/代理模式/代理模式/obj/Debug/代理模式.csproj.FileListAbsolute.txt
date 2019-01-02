@@ -1,0 +1,10 @@
+G:\设计模式\代理模式\代理模式\bin\Debug\代理模式.exe.config
+G:\设计模式\代理模式\代理模式\bin\Debug\代理模式.exe
+G:\设计模式\代理模式\代理模式\bin\Debug\代理模式.pdb
+G:\设计模式\代理模式\代理模式\obj\Debug\代理模式.csprojResolveAssemblyReference.cache
+G:\设计模式\代理模式\代理模式\obj\Debug\代理模式.exe
+G:\设计模式\代理模式\代理模式\obj\Debug\代理模式.pdb
+F:\设计模式\代理模式\代理模式\bin\Debug\代理模式.exe.config
+F:\设计模式\代理模式\代理模式\obj\Debug\代理模式.exe
+F:\设计模式\代理模式\代理模式\obj\Debug\代理模式.pdb
+F:\设计模式\代理模式\代理模式\obj\Debug\代理模式.csprojResolveAssemblyReference.cache
